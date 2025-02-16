@@ -1,0 +1,14 @@
+D:\.Net project\OnlineCourseEnrollment.Core\bin\Debug\net8.0\OnlineCourseEnrollment.Core.deps.json
+D:\.Net project\OnlineCourseEnrollment.Core\bin\Debug\net8.0\OnlineCourseEnrollment.Core.runtimeconfig.json
+D:\.Net project\OnlineCourseEnrollment.Core\bin\Debug\net8.0\OnlineCourseEnrollment.Core.dll
+D:\.Net project\OnlineCourseEnrollment.Core\bin\Debug\net8.0\OnlineCourseEnrollment.Core.pdb
+D:\.Net project\OnlineCourseEnrollment.Core\obj\Debug\net8.0\OnlineCourseEnrollment.Core.csproj.AssemblyReference.cache
+D:\.Net project\OnlineCourseEnrollment.Core\obj\Debug\net8.0\OnlineCourseEnrollment.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net project\OnlineCourseEnrollment.Core\obj\Debug\net8.0\OnlineCourseEnrollment.Core.AssemblyInfoInputs.cache
+D:\.Net project\OnlineCourseEnrollment.Core\obj\Debug\net8.0\OnlineCourseEnrollment.Core.AssemblyInfo.cs
+D:\.Net project\OnlineCourseEnrollment.Core\obj\Debug\net8.0\OnlineCourseEnrollment.Core.csproj.CoreCompileInputs.cache
+D:\.Net project\OnlineCourseEnrollment.Core\obj\Debug\net8.0\OnlineCourseEnrollment.Core.dll
+D:\.Net project\OnlineCourseEnrollment.Core\obj\Debug\net8.0\refint\OnlineCourseEnrollment.Core.dll
+D:\.Net project\OnlineCourseEnrollment.Core\obj\Debug\net8.0\OnlineCourseEnrollment.Core.pdb
+D:\.Net project\OnlineCourseEnrollment.Core\obj\Debug\net8.0\OnlineCourseEnrollment.Core.genruntimeconfig.cache
+D:\.Net project\OnlineCourseEnrollment.Core\obj\Debug\net8.0\ref\OnlineCourseEnrollment.Core.dll

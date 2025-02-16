@@ -1,0 +1,17 @@
+D:\.Net project\OnlineCourseEnrollement.Data\bin\Debug\net8.0\OnlineCourseEnrollement.Data.deps.json
+D:\.Net project\OnlineCourseEnrollement.Data\bin\Debug\net8.0\OnlineCourseEnrollement.Data.runtimeconfig.json
+D:\.Net project\OnlineCourseEnrollement.Data\bin\Debug\net8.0\OnlineCourseEnrollement.Data.dll
+D:\.Net project\OnlineCourseEnrollement.Data\bin\Debug\net8.0\OnlineCourseEnrollement.Data.pdb
+D:\.Net project\OnlineCourseEnrollement.Data\obj\Debug\net8.0\OnlineCourseEnrollement.Data.csproj.AssemblyReference.cache
+D:\.Net project\OnlineCourseEnrollement.Data\obj\Debug\net8.0\OnlineCourseEnrollement.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net project\OnlineCourseEnrollement.Data\obj\Debug\net8.0\OnlineCourseEnrollement.Data.AssemblyInfoInputs.cache
+D:\.Net project\OnlineCourseEnrollement.Data\obj\Debug\net8.0\OnlineCourseEnrollement.Data.AssemblyInfo.cs
+D:\.Net project\OnlineCourseEnrollement.Data\obj\Debug\net8.0\OnlineCourseEnrollement.Data.csproj.CoreCompileInputs.cache
+D:\.Net project\OnlineCourseEnrollement.Data\obj\Debug\net8.0\OnlineCo.FAAFC521.Up2Date
+D:\.Net project\OnlineCourseEnrollement.Data\obj\Debug\net8.0\OnlineCourseEnrollement.Data.dll
+D:\.Net project\OnlineCourseEnrollement.Data\obj\Debug\net8.0\refint\OnlineCourseEnrollement.Data.dll
+D:\.Net project\OnlineCourseEnrollement.Data\obj\Debug\net8.0\OnlineCourseEnrollement.Data.pdb
+D:\.Net project\OnlineCourseEnrollement.Data\obj\Debug\net8.0\OnlineCourseEnrollement.Data.genruntimeconfig.cache
+D:\.Net project\OnlineCourseEnrollement.Data\obj\Debug\net8.0\ref\OnlineCourseEnrollement.Data.dll
+D:\.Net project\OnlineCourseEnrollement.Data\bin\Debug\net8.0\OnlineCourseEnrollment.Core.dll
+D:\.Net project\OnlineCourseEnrollement.Data\bin\Debug\net8.0\OnlineCourseEnrollment.Core.pdb
