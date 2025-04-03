@@ -57,7 +57,7 @@ This project consists of three main layers:
 - Enabling **cloud deployment** using **Azure/AWS**.
 
 ---
-💡 *By following the structured approach above, the project ensures maintainability, scalability, and adherence to best software engineering practices.*
+
 
 
  
